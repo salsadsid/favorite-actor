@@ -1,0 +1,39 @@
+.header{
+    margin: 0 auto;
+    width: 90%;
+    text-align: center;
+}
+.blog{
+    width: 50%;
+    height: 50%;
+    background-color: bisque;
+    text-align: center;
+    margin: 0 auto;
+    border:10px solid darkolivegreen;
+    padding: 10px;
+    border-radius:20px ;
+}
+img{
+    width: 30%;
+    height: 30%;
+}
+h1{
+    font-family: Calibri;
+    font-weight: 900;
+    font-size: 3em;
+}
+.blog p {
+    text-align: justify;
+}
+.blog h3{
+    font-family: Cambria Math;
+    font-weight: 700;
+    font-size: 1.5em;
+}
+img{
+    display: block;
+    border: 5px solid darkolivegreen;
+    border-radius: 15px;
+    margin: 0 auto;
+}
+
