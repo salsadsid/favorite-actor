@@ -1,39 +1,45 @@
-.header{
+.header {
     margin: 0 auto;
     width: 90%;
     text-align: center;
 }
-.blog{
+
+.blog {
     width: 50%;
     height: 50%;
-    background-color: bisque;
+    background-color: #FCFFE9;
     text-align: center;
     margin: 0 auto;
-    border:10px solid darkolivegreen;
+    border: 10px solid #CAF4F4;
     padding: 10px;
-    border-radius:20px ;
+    border-radius: 20px;
+    margin-bottom: 20px;
 }
-img{
+
+img {
     width: 30%;
     height: 30%;
 }
-h1{
+
+h1 {
     font-family: Calibri;
     font-weight: 900;
     font-size: 3em;
 }
+
 .blog p {
     text-align: justify;
 }
-.blog h3{
+
+.blog h3 {
     font-family: Cambria Math;
     font-weight: 700;
     font-size: 1.5em;
 }
-img{
+
+img {
     display: block;
-    border: 5px solid darkolivegreen;
+    border: 5px solid #FDE0D9;
     border-radius: 15px;
     margin: 0 auto;
 }
-
